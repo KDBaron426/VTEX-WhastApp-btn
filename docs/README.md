@@ -30,7 +30,9 @@ Next I will explain how to have the Whats app Component in the store theme:
     "props": {
       "logo": "String",
       "phone": "String",
-      "message": "String"
+      "message": "String",
+      "width": "Number",
+      "height": "Number"
   }
 ```
 
